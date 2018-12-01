@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Streams", "Streams", "{F38D010B-6F74-4B4C-8A99-0A84697BBCC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wpf", "Wpf", "{05F80694-3000-4139-8945-47833FCF91A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaction_Streams_101", "Streams\Interaction_Streams_101\Interaction_Streams_101.csproj", "{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interaction_Wpf_101", "Wpf\Interaction_Wpf_101\Interaction_Wpf_101.csproj", "{5360C51A-2FFB-4F9A-8948-3B20440469DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Debug|x86.ActiveCfg = Debug|x86
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Debug|x86.Build.0 = Debug|x86
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Release|x86.ActiveCfg = Release|x86
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F}.Release|x86.Build.0 = Release|x86
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Debug|x86.ActiveCfg = Debug|x86
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Debug|x86.Build.0 = Debug|x86
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Release|x86.ActiveCfg = Release|x86
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFA73BE3-A705-4FF7-A4D7-E8DBC888A96F} = {F38D010B-6F74-4B4C-8A99-0A84697BBCC3}
+		{5360C51A-2FFB-4F9A-8948-3B20440469DB} = {05F80694-3000-4139-8945-47833FCF91A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04B38D7-DC59-440A-9748-FC00D58C4B20}
+	EndGlobalSection
+EndGlobal
